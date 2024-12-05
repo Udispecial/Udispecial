@@ -1,10 +1,10 @@
 Hi 👋 My name is Uduak Edet
 ===========================
 
-Fullstack Developer
+Software Engineer/Architect
 -------------------
 
-Innovative and versatile software developer with over 4 years of experience in both frontend and backend development. Expertise in a variety of programming languages, including Typescript, JavaScript, PHP, and SQL. Skilled in developing user-friendly interfaces and building scalable applications using technologies such as HTML, CSS, React, Node.js, Express.js, Vue.js, Laravel, InertiaJs and MongoDB. Proven ability to deliver high-quality software products in an agile environment.
+Innovative software engineer/architect with 5+ years of experience delivering scalable, high-impact software solutions. Proven leader in driving business growth, including a 50% sales boost through an eCommerce platform and a 15% performance improvement in a school management system. Expert in system design, design patterns, and building robust applications using React, Node.js , Nest.js, and Flutter, with a strong focus on aligning technical excellence with business goals.
 
 * 🌍  I'm based in Abuja, Nigeria
 * 🖥️  See my portfolio at [MyPortfolio\[](http://https://uduak-edet.netlify.app)
